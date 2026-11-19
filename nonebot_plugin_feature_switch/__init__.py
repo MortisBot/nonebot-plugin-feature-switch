@@ -36,6 +36,7 @@ __plugin_meta__ = PluginMetadata(
         "危险操作需要二次确认。"
     ),
     type="application",
+    homepage="https://github.com/MortisBot/nonebot-plugin-feature-switch",
     supported_adapters={"~onebot.v11"},
 )
 
